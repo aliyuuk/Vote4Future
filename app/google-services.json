@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "404058473639",
+    "firebase_url": "https://vote4future-5498.firebaseio.com",
+    "project_id": "vote4future-5498",
+    "storage_bucket": "vote4future-5498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404058473639:android:626c6c78025ae85e",
+        "android_client_info": {
+          "package_name": "com.adithya.vote4future"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404058473639-dpnt0duuc6qsa70jgt62c1n38lfiju07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adithya.vote4future",
+            "certificate_hash": "b092a05dbc224b94025c35970d93694c6d72ff86"
+          }
+        },
+        {
+          "client_id": "404058473639-8g6o5bng35mb2ql6j140mnbndee2q8qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABLC9kJ8K9sz4fzSQfzXiQRrAlZ0qwCjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404058473639-8g6o5bng35mb2ql6j140mnbndee2q8qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
